@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="全部",广东珠江
+http://14.19.151.72:9900/udp/239.77.0.114:5146
+
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="全部",广东民生
+http://14.19.151.72:9900/udp/239.77.0.225:5146
+
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="全部",广东影视
+http://14.19.151.72:9900/udp/239.77.0.217:5146
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="全部",广东卫视
+http://14.19.151.72:9900/udp/239.77.0.166:5146
+
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="全部",大湾区卫视
+http://14.19.151.72:9900/udp/239.77.0.215:5146
+
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="全部",广东新闻
+http://14.19.151.72:9900/udp/239.77.0.173:5146
+
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="全部",嘉佳卡通
+http://14.19.151.72:9900/udp/239.77.0.179:5146
+
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/澳视澳门.png" group-title="粤港澳",澳视澳门
+http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8

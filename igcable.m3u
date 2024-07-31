@@ -26,5 +26,5 @@ http://113.93.54.246:5555/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/经济科教.png" group-title="粤港澳频道",经济科教
 http://14.19.151.72:9900/udp/239.77.0.85:5146
 
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/澳视澳门.png" group-title="粤港澳频道",澳视澳门
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/TDM_Ou_Mun.png" group-title="粤港澳频道",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8

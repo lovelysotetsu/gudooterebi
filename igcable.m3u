@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳",广东珠江
-http://183.30.199.212:8886/udp/239.77.0.1:5146
+http://192.168.1.1:4022/udp/239.77.0.1:5146
 
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="粤港澳",广东民生
-http://183.30.199.212:8886/udp/239.77.0.225:5146
+http://192.168.1.1:4022/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="粤港澳",广东影视
-http://183.30.199.212:8886/udp/239.77.0.217:5146
+http://192.168.1.1:4022/udp/239.77.0.217:5146
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="粤港澳",广东卫视
-http://183.30.199.212:8886/udp/239.77.0.84:5146
+http://192.168.1.1:4022/udp/239.77.0.84:5146
 
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="粤港澳",大湾区卫视
-http://183.30.199.212:8886/udp/239.77.0.215:5146
+http://192.168.1.1:4022/udp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="粤港澳",广东新闻
-http://183.30.199.212:8886/udp/239.77.0.173:5146
+http://192.168.1.1:4022/udp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="粤港澳",广东综艺
-http://183.30.199.212:8886/udp/239.77.0.244:5146
+http://192.168.1.1:4022/udp/239.77.0.244:5146
 
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="粤港澳",广东少儿
-http://183.30.199.212:8886/udp/239.77.0.250:5146
+http://192.168.1.1:4022/udp/239.77.0.250:5146
 
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="粤港澳",嘉佳卡通
-http://183.30.199.212:8886/udp/239.77.0.179:5146
+http://192.168.1.1:4022/udp/239.77.0.179:5146
 
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/岭南戏曲.png" group-title="粤港澳",岭南戏曲
-http://183.30.199.212:8886/udp/239.77.0.122:5146
+http://192.168.1.1:4022/udp/239.77.0.122:5146
 
 #EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/经济科教.png" group-title="粤港澳",经济科教
-http://183.30.199.212:8886/udp/239.77.0.85:5146
+http://192.168.1.1:4022/udp/239.77.0.85:5146
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=d655e3f770d12f2ece05ae687fc3d5ff/10b00aedab64034fd5494026e9c379310b551dd2.jpg?tbpicau=2024-08-11-05_49126742592b83c4f25efa6db45761d8" group-title="粤港澳",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8

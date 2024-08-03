@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=a2f301064f24ab18e016e13f05fbe69a/8c619159252dd42ad8a1e58b453b5bb5c9eab837.jpg?tbpicau=2024-08-13-05_c929d5339be924da70375cb0705bc583" group-title="粤港澳",港台电视31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+
+#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=5132533689fc1e17fdbf8c397a91f67c/57bfc0adcbef760959ad7dbf68dda3cc7cd99e3c.jpg?tbpicau=2024-08-13-05_b9df90bbc0b4aee7fc8283b5cd80d71d" group-title="粤港澳",港台电视32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+
+

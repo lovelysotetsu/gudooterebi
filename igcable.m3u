@@ -2,11 +2,17 @@
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳",广东珠江
 http://14.19.198.62:9876/udp/239.77.0.1:5146
 
+#EXTINF:-1 tvg-id="广东珠江（标清）" tvg-name="广东珠江（标清）" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳",广东珠江（标清）
+http://php.jdshipin.com:8880/xsj.php?id=gdzj
+
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="粤港澳",广东民生
 http://14.19.198.62:9876/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="粤港澳",广东影视
 http://14.19.198.62:9876/udp/239.77.0.217:5146
+
+#EXTINF:-1 tvg-id="广东影视（标清）" tvg-name="广东影视（标清）" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="粤港澳",广东影视（标清）
+http://php.jdshipin.com:8880/xsj.php?id=gzys
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="粤港澳",广东卫视
 http://14.19.198.62:9876/udp/239.77.0.84:5146

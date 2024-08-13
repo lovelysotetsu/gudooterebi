@@ -32,6 +32,8 @@ http://121.13.85.221:8000/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/经济科教.png" group-title="粤港澳",经济科教
 http://121.13.85.221:8000/udp/239.77.0.85:5146
 
+#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/现代教育.png" group-title="粤港澳",现代教育
+http://121.13.85.221:8000/udp/239.77.0.213:5146
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=d655e3f770d12f2ece05ae687fc3d5ff/10b00aedab64034fd5494026e9c379310b551dd2.jpg?tbpicau=2024-08-23-05_953ddf62196681ba53a417cb661a674e" group-title="粤港澳",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8

@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="HamiVideo", 纬来日本
-http://157.254.32.68:5000/itv/ystenlive/1000000001000001910
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
+rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF:-1 tvg-id="纬来育樂" tvg-name="纬来育樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="HamiVideo", 纬来育樂
-http://157.254.32.68:5000/itv/ystenlive/1000000005000265020
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="HamiVideo", 纬来日本
+rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="HamiVideo", 纬来体育
-http://157.254.32.68:5000/itv/bestzb/7851974109718180595
-
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
-http://157.254.32.68:5000/itv/ystenlive/1000000001000030159
-
-#EXTINF:-1 tvg-id="MoMo综合" tvg-name="MoMo综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="HamiVideo", MoMo综合
-http://157.254.32.68:5000/itv/wasusyt/6000000001000009954
+rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 tvg-id="ELEVEN体育1" tvg-name="ELEVEN体育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="HamiVideo", ELEVEN体育1
-http://157.254.32.68:5000/itv/ystenlive/1000000005000265025
+rtmp://f13h.mine.nu/sat/tv731
 
 #EXTINF:-1 tvg-id="ELEVEN体育2" tvg-name="ELEVEN体育2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png" group-title="HamiVideo", ELEVEN体育2
-http://157.254.32.68:5000/itv/ystenlive/1000000005000265025
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-id="ELEVEN体育3" tvg-name="ELEVEN体育3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven3.png" group-title="HamiVideo", ELEVEN体育3
-http://157.254.32.68:5000/itv/ystenlive/1000000005000265025
+rtmp://f13h.mine.nu/sat/tv751
+
+#EXTINF:-1 tvg-id="MoMo综合" tvg-name="MoMo综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="HamiVideo", MoMo综合
+rtmp://f13h.mine.nu/sat/tv761
 
 #EXTINF:-1 tvg-id="翡翠台（高清）" tvg-name="翡翠台（高清）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳",翡翠台（高清）
 http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass

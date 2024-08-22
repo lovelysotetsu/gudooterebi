@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门
-https://test.zapi.us.kg/?id=tdm
+http://23.26.239.95:3599/xsj.php?id=tdm
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
 http://www.mytvsuper.us.kg/live.php?id=animax
@@ -11,16 +11,16 @@ http://www.mytvsuper.us.kg/live.php?id=animax
 http://www.mytvsuper.us.kg/live.php?id=tvn
 
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
-rtmp://f13h.mine.nu/sat/tv331
+http://23.26.239.95:3599/xsj.php?id=ebc-super
 
-#EXTINF:-1 tvg-id="纬来育樂" tvg-name="纬来育樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="HamiVideo", 纬来育樂
-rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="HamiVideo", 纬来戏剧
+http://23.26.239.95:3599/xsj.php?id=videoland-drama
 
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="HamiVideo", 纬来日本
-rtmp://f13h.mine.nu/sat/tv771
+http://23.26.239.95:3599/xsj.php?id=videoland-japan
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="HamiVideo", 纬来体育
-rtmp://f13h.mine.nu/sat/tv721
+http://23.26.239.95:3599/xsj.php?id=videoland-sport
 
 #EXTINF:-1 tvg-id="ELEVEN体育1" tvg-name="ELEVEN体育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="HamiVideo", ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
@@ -30,9 +30,6 @@ rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-id="ELEVEN体育3" tvg-name="ELEVEN体育3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven3.png" group-title="HamiVideo", ELEVEN体育3
 rtmp://f13h.mine.nu/sat/tv751
-
-#EXTINF:-1 tvg-id="MoMo综合" tvg-name="MoMo综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="HamiVideo", MoMo综合
-rtmp://f13h.mine.nu/sat/tv761
 
 #EXTINF:-1 tvg-id="翡翠台（高清）" tvg-name="翡翠台（高清）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳",翡翠台（高清）
 http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass

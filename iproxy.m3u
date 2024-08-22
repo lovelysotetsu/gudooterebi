@@ -37,7 +37,7 @@ http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass
 #EXTINF:-1 tvg-id="明珠台（高清）" tvg-name="明珠台（高清）" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="粤港澳",明珠台（高清）
 http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
 
-#EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/viu2.png" group-title="粤港澳",Viu 频道
+#EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/Viu%20channel.png" group-title="粤港澳",Viu 频道
 http://cdn12.1678520.xyz/live/?id=viu2
 
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台

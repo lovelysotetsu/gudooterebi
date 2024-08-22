@@ -38,5 +38,8 @@ http://14.154.194.169:4022/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=d655e3f770d12f2ece05ae687fc3d5ff/10b00aedab64034fd5494026e9c379310b551dd2.jpg?tbpicau=2024-08-23-05_953ddf62196681ba53a417cb661a674e" group-title="粤港澳",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8
 
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+https://pi.0472.org/livetv/cctv4k.m3u8
+
 http://121.13.84.156:8000/
 121.13.85.221:8000

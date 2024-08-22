@@ -7,6 +7,9 @@ https://test.zapi.us.kg/?id=tdm
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
 http://www.mytvsuper.us.kg/live.php?id=animax
 
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="HamiVideo", tvN
+http://www.mytvsuper.us.kg/live.php?id=tvn
+
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
 rtmp://f13h.mine.nu/sat/tv331
 
@@ -45,6 +48,3 @@ http://www.mytvsuper.us.kg/live.php?id=huangjinfeicui
 
 #EXTINF:-1 tvg-id="亚洲剧台" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
 http://www.mytvsuper.us.kg/live.php?id=ctvs
-
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="HamiVideo", tvN
-http://www.mytvsuper.us.kg/live.php?id=tvn

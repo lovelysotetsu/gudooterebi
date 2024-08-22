@@ -45,3 +45,6 @@ http://www.mytvsuper.us.kg/live.php?id=huangjinfeicui
 
 #EXTINF:-1 tvg-id="亚洲剧台" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
 http://www.mytvsuper.us.kg/live.php?id=ctvs
+
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="HamiVideo", tvN
+http://www.mytvsuper.us.kg/live.php?id=tvn

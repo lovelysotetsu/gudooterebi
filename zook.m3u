@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=a2f301064f24ab18e016e13f05fbe69a/8c619159252dd42ad8a1e58b453b5bb5c9eab837.jpg?tbpicau=2024-08-13-05_c929d5339be924da70375cb0705bc583" group-title="粤港澳",港台电视31
-http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=5132533689fc1e17fdbf8c397a91f67c/57bfc0adcbef760959ad7dbf68dda3cc7cd99e3c.jpg?tbpicau=2024-08-13-05_b9df90bbc0b4aee7fc8283b5cd80d71d" group-title="粤港澳",港台电视32
-http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-
-#EXTINF:-1 tvg-id="*HOY 国际财经台" tvg-name="*HOY 国际财经台" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=1dafd9c7d72397ddd679980c6983b216/edb6a366d0160924d38f423b920735fae6cd3430.jpg?tbpicau=2024-08-14-05_09c168527fd01a64535625dbce87eff3" group-title="粤港澳", *HOY 国际财经台
-https://api.btbt.im/live?id=hoy-ibc
-
-#EXTINF:-1 tvg-id="*HOY TV" tvg-name="*HOY TV" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=421c730eeed3fd1f3609a232004f25ce/20bffbd162d9f2d397bbc4cfefec8a136327cc31.jpg?tbpicau=2024-08-14-05_88d5a43f7e19e8f925795bb98b454ac3" group-title="粤港澳", *HOY TV
-http://cdn9.1678520.xyz/xsj2.1.php?id=hoytv
-
-#EXTINF:-1 tvg-id="*HOY 资讯台" tvg-name="*HOY 资讯台" tvg-logo="https://tiebapic.baidu.com/forum/w%3D580/sign=00cd6609adc4b7453494b71efffd1e78/f67fa882b2b7d0a2066ce4bd8def76094b369a31.jpg?tbpicau=2024-08-14-05_a00b5205707b6d4d45942d0e72db5fd3" group-title="粤港澳", *HOY 资讯台
-http://cdn9.1678520.xyz/xsj2.1.php?id=hoy-info
-
-
+#EXTINF:-1 tvg-id="翡翠台（高清）" tvg-name="翡翠台（高清）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳",翡翠台（高清）
+http://cdn3.1678520.xyz/live/?id=fct2

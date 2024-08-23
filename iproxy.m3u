@@ -11,16 +11,16 @@ http://www.mytvsuper.us.kg/live.php?id=animax
 http://www.mytvsuper.us.kg/live.php?id=tvn
 
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
-http://23.26.239.95:3599/xsj.php?id=ebc-super
+rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="HamiVideo", 纬来戏剧
 http://23.26.239.95:3599/xsj.php?id=videoland-drama
 
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="HamiVideo", 纬来日本
-http://23.26.239.95:3599/xsj.php?id=videoland-japan
+rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="HamiVideo", 纬来体育
-http://23.26.239.95:3599/xsj.php?id=videoland-sport
+rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 tvg-id="ELEVEN体育1" tvg-name="ELEVEN体育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="HamiVideo", ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
@@ -32,7 +32,7 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv751
 
 #EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/Viu%20channel.png" group-title="粤港澳",Viu 频道
-http://cdn12.1678520.xyz/live/?id=viu2
+http://23.26.239.95:3599/xsj.php?id=now-viu-drama
 
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
 http://www.mytvsuper.us.kg/live.php?id=huangjinfeicui

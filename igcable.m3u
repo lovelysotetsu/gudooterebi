@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳",广东珠江
-http://61.140.148.82:3333/udp/239.77.0.1:5146
+http://61.140.148.82:3333/udp/239.77.0.84:5146
 
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="粤港澳",广东民生
 http://61.140.148.82:3333/udp/239.77.0.225:5146

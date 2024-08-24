@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门
-http://23.26.239.95:3599/xsj.php?id=tdm
+http://61.244.22.5/ch1/ch1.live/index.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
 http://www.mytvsuper.us.kg/live.php?id=animax
@@ -32,7 +32,7 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv751
 
 #EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/Viu%20channel.png" group-title="粤港澳",Viu 频道
-http://23.26.239.95:3599/xsj.php?id=now-viu-drama
+http://cdn12.1678520.xyz/live/?id=viu2
 
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
 http://www.mytvsuper.us.kg/live.php?id=huangjinfeicui

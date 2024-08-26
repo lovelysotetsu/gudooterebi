@@ -22,22 +22,8 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="HamiVideo", 纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="安博",緯來育樂
-https://www.mytvsuper.us.kg/anbo.php?id=338
-#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="安博",緯來育樂（測試）
-https://www.mytvsuper.us.kg/anbo.php?id=2772
-#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="安博",緯來日本
-https://www.mytvsuper.us.kg/anbo.php?id=337
-#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="安博",緯來日本
-https://www.mytvsuper.us.kg/anbo.php?id=46
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="安博",華視
-https://www.mytvsuper.us.kg/anbo.php?id=32
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="安博",華視
-https://www.mytvsuper.us.kg/anbo.php?id=2282
-
-
-#EXTINF:-1 tvg-id="无线卫星亚洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="HamiVideo", 无线卫星亚洲台
-http://www.mytvsuper.us.kg/live.php?id=cts1
+#EXTINF:-1 tvg-id="无线卫星新闻台" tvg-name="无线卫星新闻台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="HamiVideo", 无线卫星新闻台
+http://www.mytvsuper.us.kg/live.php?id=ctsn
 
 #EXTINF:-1 tvg-id="ELEVEN体育1" tvg-name="ELEVEN体育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="HamiVideo", ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731

@@ -22,6 +22,9 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="HamiVideo", 纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="HamiVideo", 中天亚洲台
+https://test.zapi.us.kg/?id=cti-asia
+
 #EXTINF:-1 tvg-id="无线卫星新闻台" tvg-name="无线卫星新闻台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="HamiVideo", 无线卫星新闻台
 http://www.mytvsuper.us.kg/live.php?id=ctsn
 

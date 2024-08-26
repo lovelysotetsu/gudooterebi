@@ -38,8 +38,8 @@ http://218.18.4.146:8888/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/jmtv.png" group-title="粤港澳",江门综合
 http://218.18.4.146:8888/udp/239.77.0.201:5146
 
-
-
+#EXTINF:-1 tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/jmtv.png" group-title="粤港澳",江门侨乡生活
+http://218.18.4.146:8888/udp/239.77.0.202:5146
 
 
 http://121.13.84.156:8000/

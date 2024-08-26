@@ -35,6 +35,8 @@ http://218.18.4.146:8888/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/现代教育.png" group-title="粤港澳",现代教育
 http://218.18.4.146:8888/udp/239.77.0.213:5146
 
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/jmtv.png" group-title="粤港澳",江门综合
+http://218.18.4.146:8888/udp/239.77.0.201:5146
 
 
 

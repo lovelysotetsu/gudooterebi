@@ -37,7 +37,7 @@ rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-id="ELEVEN体育3" tvg-name="ELEVEN体育3" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven3.png" group-title="HamiVideo", ELEVEN体育3
 rtmp://f13h.mine.nu/sat/tv751
 
-#EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/Viu%20channel.png" group-title="粤港澳",Viu 频道
+#EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/viu2.png" group-title="粤港澳",Viu 频道
 http://cdn12.1678520.xyz/live/?id=viu2
 
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台

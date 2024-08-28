@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门
 https://test.zapi.us.kg/?id=tdm
 
+#EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now 爆谷台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="粤港澳",Now 爆谷台
+https://live.mytvsuper.us.kg/live/7289c931f0757873fea398ad6ab272d044856f74d1fc5714575c3b548c71d7e3.m3u8?token=686830669898741
+
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
 https://live.mytvsuper.us.kg/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba36fc812914399.m3u8?token=686830669898741
 

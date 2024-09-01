@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.aptv.app/xml,https://epg.aptv.app/pp.xml.gz,http://epg.51zmt.top:8000/e.xml.gz,https://epg.v1.mk/fy.xml"
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+http://60.246.171.122:8891/bysid/91.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
 https://judy.567852.xyz/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba36fc812914399.m3u8?token=686830669841298

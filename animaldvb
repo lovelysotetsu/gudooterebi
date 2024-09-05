@@ -1,75 +1,75 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_31_s.png" group-title="粤港澳",港台电视31
-https://live.hkdvb.com/hls/live/31.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/31.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_32_s.png" group-title="粤港澳",港台电视32
-https://live.hkdvb.com/hls/live/32.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/32.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="中央电视台综合频道" tvg-name="中央电视台综合频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_33_s.png" group-title="粤港澳",中央电视台综合频道
-https://live.hkdvb.com/hls/live/33.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/33.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="中国环球电视网纪录频道" tvg-name="中国环球电视网纪录频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_34_s.png" group-title="粤港澳",中国环球电视网纪录频道
-https://live.hkdvb.com/hls/live/34.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/34.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="中国环球电视网英语频道" tvg-name="中国环球电视网英语频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_35_s.png" group-title="粤港澳",中国环球电视网英语频道
-https://live.hkdvb.com/hls/live/35.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/35.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="港台电视36" tvg-name="港台电视36" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_36_s.png" group-title="粤港澳",港台电视36
-https://live.hkdvb.com/hls/live/36.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/36.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="*HOY 国际财经台" tvg-name="*HOY 国际财经台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/HOY_76.png" group-title="粤港澳", *HOY 国际财经台
-https://live.hkdvb.com/hls/live/76.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/76.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="*HOY TV" tvg-name="*HOY TV" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/HOY_77.png" group-title="粤港澳", *HOY TV
-https://live.hkdvb.com/hls/live/77.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/77.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="*HOY 资讯台" tvg-name="*HOY 资讯台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/HOY_78.png" group-title="粤港澳", *HOY 资讯台
-https://live.hkdvb.com/hls/live/78.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/78.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="翡翠台（4K）" tvg-name="翡翠台（4K）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳",翡翠台（4K）
-https://live.hkdvb.com/hls/live/800.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/800.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-id="翡翠台（高清）" tvg-name="翡翠台（高清）" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳",翡翠台（高清）
-https://live.hkdvb.com/hls/live/81.m3u8?token=686830669821896
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="粤港澳",翡翠台
+https://live.hkdvb.com/hls/live/81.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB%2B.png" group-title="粤港澳",TVB Plus
-https://live.hkdvb.com/hls/live/82.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/82.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="粤港澳",无线新闻台
-https://live.hkdvb.com/hls/live/83.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/83.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="粤港澳",明珠台
-https://live.hkdvb.com/hls/live/84.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/84.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/Phoenix%20Hong%20Kong.png" group-title="粤港澳",凤凰卫视香港台
-https://live.hkdvb.com/hls/live/85.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/85.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Viutv6.png" group-title="粤港澳",ViuTVsix
-https://live.hkdvb.com/hls/live/96.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/96.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Viutv.png" group-title="粤港澳",ViuTV
-https://live.hkdvb.com/hls/live/99.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/99.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="粤港澳",PopC
-https://live.hkdvb.com/hls/live/801.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/801.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="Now 爆谷星影台" tvg-name="Now 爆谷星影台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/now%20superstars.png" group-title="粤港澳",Now 爆谷星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/138.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/Now%20News.png" group-title="粤港澳", Now 新聞台
-https://live.hkdvb.com/hls/live/332.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/332.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="630" tvg-name="Now 体育精选台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/now%20sports%20prime.png" group-title="粤港澳", 体育精选台
-https://live.hkdvb.com/hls/live/630.m3u8?token=686830669821896
+https://live.hkdvb.com/hls/live/630.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="华语剧台" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",华语剧台
-
+https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="粤语片台" tvg-name="粤语片台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",粤语片台
-
+https://live.hkdvb.com/hls/live/804.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="粤港澳",美亚电影台
-
+https://live.hkdvb.com/hls/live/802.m3u8?token=686830669847502
 
 
 

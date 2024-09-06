@@ -1,39 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="粤港澳",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="粤港澳",广东珠江
 http://14.19.179.158:4022/udp/239.77.0.1:5146
 
-#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="粤港澳",广东民生
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="粤港澳",广东民生
 http://14.19.179.158:4022/udp/239.77.0.225:5146
 
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="粤港澳",广东影视
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="粤港澳",广东影视
 http://14.19.179.158:4022/udp/239.77.0.217:5146
 
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="粤港澳",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong0.png" group-title="粤港澳",广东卫视
 http://14.19.179.158:4022/udp/239.77.0.84:5146
 
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="粤港澳",大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="粤港澳",大湾区卫视
 http://14.19.179.158:4022/udp/239.77.0.215:5146
 
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="粤港澳",广东新闻
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="粤港澳",广东新闻
 http://14.19.179.158:4022/udp/239.77.0.173:5146
 
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="粤港澳",广东少儿
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong6.png" group-title="粤港澳",广东少儿
 http://14.19.179.158:4022/udp/239.77.0.250:5146
 
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="粤港澳",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="粤港澳",嘉佳卡通
 http://14.19.179.158:4022/udp/239.77.0.179:5146
 
-#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/岭南戏曲.png" group-title="粤港澳",岭南戏曲
+#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="粤港澳",岭南戏曲
 http://14.19.179.158:4022/udp/239.77.0.122:5146
 
-#EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/经济科教.png" group-title="粤港澳",经济科教
+#EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="粤港澳",经济科教
 http://14.19.179.158:4022/udp/239.77.0.85:5146
 
-#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/现代教育.png" group-title="粤港澳",现代教育
+#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong13.png" group-title="粤港澳",现代教育
 http://14.19.179.158:4022/udp/239.77.0.213:5146
 
-#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="粤港澳",广东综艺
-http://14.19.179.158:4022/udp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong4.png" group-title="粤港澳",广东4K超高清
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=gd4k
+/udp/239.77.0.244:5146
 
 #EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/jmtv1.png" group-title="粤港澳",江门综合
 http://14.19.179.158:4022/udp/239.77.0.201:5146
@@ -42,5 +43,3 @@ http://14.19.179.158:4022/udp/239.77.0.201:5146
 http://14.19.179.158:4022/udp/239.77.0.202:5146
 
 
-http://121.13.84.156:8000/
-121.13.85.221:8000

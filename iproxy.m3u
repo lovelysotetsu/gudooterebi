@@ -16,7 +16,7 @@ http://free.xiptv.x10.bz/kudou.php?id=60
 #EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="HamiVideo", 八大综合台
 http://free.xiptv.x10.bz/kudou.php?id=55
 
-#EXTINF:-1 tvg-id="无线卫星电视台" tvg-name="无线卫星电视台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="HamiVideo", 无线卫星电视台
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="HamiVideo", TVBS
 http://free.xiptv.x10.bz/kudou.php?id=77
 
 #EXTINF:-1 tvg-id="无线卫星新闻台" tvg-name="无线卫星新闻台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="HamiVideo", 无线卫星新闻台

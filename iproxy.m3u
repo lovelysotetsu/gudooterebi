@@ -4,17 +4,17 @@
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门
 http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
-https://judy.567852.xyz/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba36fc812914399.m3u8?token=686830669860894
-
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="HamiVideo", tvN
 https://judy.567852.xyz/live/ced3a778963c08fa456d1e42dd4f049cd3c6f514ad88353cbe32096364804f18.m3u8?token=686830669860894
 
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
-rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
+https://judy.567852.xyz/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba36fc812914399.m3u8?token=686830669860894
 
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="HamiVideo", 中天亚洲台
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
+
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
+rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="HamiVideo", 八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8

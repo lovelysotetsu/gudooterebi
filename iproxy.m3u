@@ -13,6 +13,9 @@ https://judy.567852.xyz/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="HamiVideo", 中天亚洲台
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
 
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森财经新闻台
+https://litv.zapi.us.kg/?id=4gtv-4gtv153
+
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="HamiVideo", 东森超视
 rtmp://f13h.mine.nu/sat/tv331
 

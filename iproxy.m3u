@@ -23,6 +23,8 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 https://judy.567852.xyz/live/29f80886859898262b8714f0b5943907c1cd2802c784d163f8ea9d45c45dfd3a.m3u8?token=686830669860894
 
 #EXTINF:-1 tvg-id="Viu 频道" tvg-name="Viu 频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/viu2.png" group-title="粤港澳",Viu 频道
+http://test.zapi.us.kg/?id=now-viu-drama
+
 http://cdn12.1678520.xyz/live/?id=viu2
 
 #EXTINF:-1 tvg-id="亚洲剧台" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台

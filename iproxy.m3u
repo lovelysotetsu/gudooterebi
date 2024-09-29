@@ -5,10 +5,10 @@
 http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="HamiVideo", tvN
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/240.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/240.ts
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/227.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/227.ts
 
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="HamiVideo", 中天亚洲台
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
@@ -20,25 +20,25 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv153
 rtmp://f13h.mine.nu/sat/tv331
 
 #EXTINF:-1 tvg-id="无线卫星亚洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png" group-title="HamiVideo", 无线卫星亚洲台
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/220.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/220.ts
 
 #EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="HamiVideo", 八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
 
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/210.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/210.ts
 
 #EXTINF:-1 tvg-id="黃金华剧台" tvg-name="黃金华剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金华剧台
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/211.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/211.ts
 
 #EXTINF:-1 tvg-id="亚洲剧台" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/212.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/212.ts
 
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 千禧经典台
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/215.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/215.ts
 
 #EXTINF:-1 tvg-id="戏曲台" tvg-name="戏曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 戏曲台
-http://www.pendy.us.kg:80/live/ceshi8899/ceshi8899/218.ts
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/218.ts
 
 
 

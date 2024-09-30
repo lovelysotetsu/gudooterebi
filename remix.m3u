@@ -46,6 +46,9 @@ http://14.112.86.108:4022/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="16" tvg-name="岭南戏曲" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="粤港澳",岭南戏曲
 http://14.112.86.108:4022/rtp/239.77.0.122:5146
 
+#EXTINF:-1 tvg-id="17" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="粤港澳",深圳卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+
 #EXTINF:-1 tvg-id="608" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 

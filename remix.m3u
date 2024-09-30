@@ -70,29 +70,29 @@ http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/220.ts
 #EXTINF:-1 tvg-id="79" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/210.ts
 
-#EXTINF:-1 tvg-id="90" tvg-name="黃金华剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金华剧台
-http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/211.ts
+#EXTINF:-1 tvg-id="86" tvg-name="千禧经典台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 千禧经典台
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/215.ts
 
 #EXTINF:-1 tvg-id="87" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/212.ts
 
-#EXTINF:-1 tvg-id="86" tvg-name="千禧经典台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 千禧经典台
-http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/215.ts
+#EXTINF:-1 tvg-id="89" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",华语剧台
+https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
+
+#EXTINF:-1 tvg-id="90" tvg-name="黃金华剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金华剧台
+http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/211.ts
 
 #EXTINF:-1 tvg-id="98" tvg-name="戏曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 戏曲台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/218.ts
 
-#EXTINF:-1 tvg-id="89" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",华语剧台
-https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
-
 #EXTINF:-1 tvg-id="200" tvg-name="粤语片台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",粤语片台
 https://live.hkdvb.com/hls/live/804.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-id="206" tvg-name="PopC" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="粤港澳",PopC
-https://live.hkdvb.com/hls/live/801.m3u8?token=686830669847502
-
 #EXTINF:-1 tvg-id="201" tvg-name="美亚电影台" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="粤港澳",美亚电影台
 https://live.hkdvb.com/hls/live/802.m3u8?token=686830669847502
+
+#EXTINF:-1 tvg-id="206" tvg-name="PopC" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="粤港澳",PopC
+https://live.hkdvb.com/hls/live/801.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/main/png/tv_logo_31_s.png" group-title="粤港澳",港台电视31
 https://live.hkdvb.com/hls/live/31.m3u8?token=686830669847502

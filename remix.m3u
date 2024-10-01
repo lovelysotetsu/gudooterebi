@@ -49,10 +49,10 @@ http://14.112.86.108:4022/rtp/239.77.0.122:5146
 #EXTINF:-1 tvg-chno="17" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="粤港澳",深圳卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+#EXTINF:-1 tvg-chno="18" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
-#EXTINF:-1 tvg-chno="609" tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-chno="19" tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="HamiVideo", tvN
@@ -82,7 +82,10 @@ https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
 #EXTINF:-1 tvg-chno="90" tvg-name="黃金华剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金华剧台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/211.ts
 
-#EXTINF:-1 tvg-chno="91" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
+#EXTINF:-1 tvg-chno="91" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门
+http://202.168.187.221:4001/rtp/239.12.22.76:10001
+
+#EXTINF:-1 tvg-chno="190" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/210.ts
 
 #EXTINF:-1 tvg-chno="98" tvg-name="戏曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 戏曲台

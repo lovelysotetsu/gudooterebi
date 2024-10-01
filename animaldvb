@@ -41,7 +41,7 @@ https://live.hkdvb.com/hls/live/83.m3u8?token=686830669847502
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Pearl.png" group-title="粤港澳",明珠台
 https://live.hkdvb.com/hls/live/84.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/Phoenix%20Hong%20Kong.png" group-title="粤港澳",凤凰卫视香港台
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="粤港澳",凤凰卫视香港台
 https://live.hkdvb.com/hls/live/85.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/Viutv6.png" group-title="粤港澳",ViuTVsix

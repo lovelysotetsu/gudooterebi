@@ -112,7 +112,7 @@ https://live.hkdvb.com/hls/live/33.m3u8?token=686830669847502
 #EXTINF:-1 tvg-chno="34" tvg-name="中国环球电视网纪录频道(CGTN DOCUMENTARY)" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_34_s.png" group-title="粤港澳",中国环球电视网纪录频道(CGTN DOCUMENTARY)
 https://live.hkdvb.com/hls/live/34.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-chno="35" tvg-name="中国环球电视网英语频道(CGTN)" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_35_s.png" group-title="粤港澳",中国环球电视网英语频道(CGTN)
+#EXTINF:-1 tvg-chno="35" tvg-name="CGTN 英语频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_35_s.png" group-title="粤港澳",CGTN 英语频道
 https://live.hkdvb.com/hls/live/35.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-chno="36" tvg-name="港台电视36" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_36_s.png" group-title="粤港澳",港台电视36

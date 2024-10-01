@@ -76,6 +76,9 @@ http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/215.ts
 #EXTINF:-1 tvg-chno="187" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/212.ts
 
+#EXTINF:-1 tvg-chno="188" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="粤港澳", myTV SUPER 18台
+http://www.pendy.us.kg:80/live/ceshi7788/ceshi7788/221.ts
+
 #EXTINF:-1 tvg-chno="189" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",华语剧台
 https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
 

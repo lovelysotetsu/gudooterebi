@@ -61,34 +61,34 @@ http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/240.ts
 #EXTINF:-1 tvg-chno="150" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="HamiVideo", Animax
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/227.ts
 
-#EXTINF:-1 tvg-chno="538" tvg-name="中天亚洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="HamiVideo", 中天亚洲台
+#EXTINF:-1 tvg-chno="538" tvg-name="中天亞洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="HamiVideo", 中天亚洲台
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
 
-#EXTINF:-1 tvg-chno="372" tvg-name="东森财经新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="HamiVideo", 东森财经新闻
+#EXTINF:-1 tvg-chno="372" tvg-name="東森財經新聞" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="HamiVideo", 东森财经新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv153
 
-#EXTINF:-1 tvg-chno="601" tvg-name="无线卫星亚洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png" group-title="HamiVideo", 无线卫星亚洲台
+#EXTINF:-1 tvg-chno="601" tvg-name="無線衛星亞洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png" group-title="HamiVideo", 无线卫星亚洲台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/220.ts
 
-#EXTINF:-1 tvg-chno="186" tvg-name="千禧经典台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 千禧经典台
+#EXTINF:-1 tvg-chno="186" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 千禧经典台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/215.ts
 
-#EXTINF:-1 tvg-chno="187" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
+#EXTINF:-1 tvg-chno="187" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 亚洲剧台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/212.ts
 
-#EXTINF:-1 tvg-chno="118" tvg-name="myTV SUPER 18台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/myTVSUPER%2018.png" group-title="粤港澳", myTV SUPER 18台
+#EXTINF:-1 tvg-chno="118" tvg-name="myTV SUPER 18" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/myTVSUPER%2018.png" group-title="粤港澳", myTV SUPER 18台
 http://www.pendy.us.kg:80/live/ceshi7788/ceshi7788/221.ts
 
 #EXTINF:-1 tvg-chno="189" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",华语剧台
 https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-chno="190" tvg-name="黃金华剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金华剧台
+#EXTINF:-1 tvg-chno="190" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金华剧台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/211.ts
 
 #EXTINF:-1 tvg-chno="197" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 黃金翡翠台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/210.ts
 
-#EXTINF:-1 tvg-chno="198" tvg-name="戏曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 戏曲台
+#EXTINF:-1 tvg-chno="198" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳", 戏曲台
 http://www.pendy.us.kg:80/live/ceshi6677/ceshi6677/218.ts
 
 #EXTINF:-1 tvg-chno="200" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",粤语片台

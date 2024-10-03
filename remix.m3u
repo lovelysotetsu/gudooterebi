@@ -22,7 +22,7 @@ https://live.hkdvb.com/hls/live/99.m3u8?token=686830669847502
 #EXTINF:-1 tvg-chno="138" tvg-name="Now Superstars 星影台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/now%20superstars.png" group-title="粤港澳",Now 爆谷星影台
 https://live.hkdvb.com/hls/live/138.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-chno="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/NOW%20NEWS02.png" group-title="粤港澳", Now 新聞台
+#EXTINF:-1 tvg-chno="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="粤港澳", Now 新聞台
 https://live.hkdvb.com/hls/live/332.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-chno="630" tvg-name="Now Sports Prime" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/NOW%20SP.png" group-title="粤港澳",Now 体育精选台

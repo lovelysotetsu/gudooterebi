@@ -59,7 +59,7 @@ https://live.hkdvb.com/hls/live/138.m3u8?token=686830669847502
 #EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="粤港澳", Now 新聞台
 https://live.hkdvb.com/hls/live/332.m3u8?token=686830669847502
 
-#EXTINF:-1 tvg-id="630" tvg-name="Now 体育精选台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/now%20sports%20prime.png" group-title="粤港澳", 体育精选台
+#EXTINF:-1 tvg-id="630" tvg-name="Now 体育精选台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/NOW%20SP.png" group-title="粤港澳", 体育精选台
 https://live.hkdvb.com/hls/live/630.m3u8?token=686830669847502
 
 #EXTINF:-1 tvg-id="华语剧台" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="粤港澳",华语剧台

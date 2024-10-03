@@ -46,7 +46,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-chno="16" tvg-name="大湾区卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="粤港澳",大湾区卫视
 http://113.101.119.145:8090/hls/109/index.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ShenzhenWeishi.png" group-title="粤港澳",深圳卫视
+#EXTINF:-1 tvg-chno="17" tvg-name="深圳卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/szws.png" group-title="粤港澳",深圳卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-name="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育

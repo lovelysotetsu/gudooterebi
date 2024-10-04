@@ -59,7 +59,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/69.ts
 
 #EXTINF:-1 tvg-chno="150" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="now宽频电视", Animax
-https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/56.ts
+http://211.72.65.236:8550/http/192.168.77.24:8081/hls/71/813/ch43.m3u
 
 #EXTINF:-1 tvg-chno="512" tvg-name="AXN" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="now宽频电视", AXN
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/58.ts

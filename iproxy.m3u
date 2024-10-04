@@ -18,3 +18,36 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-name="myTV SUPER 18" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/myTVSUPER%2018.png" group-title="myTV SUPER", myTV SUPER 18台
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/45.ts
 
+
+#EXTINF:-1 tvg-chno="155" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="now宽频电视", tvN
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/69.ts
+
+#EXTINF:-1 tvg-chno="150" tvg-name="Animax" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="now宽频电视", Animax
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/56.ts
+
+#EXTINF:-1 tvg-chno="538" tvg-name="中天亞洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ctiasia.png" group-title="now宽频电视", 中天亚洲台
+https://litv.zapi.us.kg/?id=4gtv-4gtv109
+
+#EXTINF:-1 tvg-chno="372" tvg-name="東森財經新聞" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="now宽频电视", 东森财经新闻台
+https://litv.zapi.us.kg/?id=4gtv-4gtv153
+
+#EXTINF:-1 tvg-chno="601" tvg-name="無線衛星亞洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png" group-title="myTV SUPER", 无线卫星亚洲台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/44.ts
+
+#EXTINF:-1 tvg-chno="186" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 千禧经典台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/36.ts
+
+#EXTINF:-1 tvg-chno="187" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 亚洲剧台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/32.ts
+
+#EXTINF:-1 tvg-chno="188" tvg-name="SUPER Kids" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", SUPER Kids Channel
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/67.ts
+
+#EXTINF:-1 tvg-chno="190" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 黃金华剧台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/31.ts
+
+#EXTINF:-1 tvg-chno="197" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 黃金翡翠台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/30.ts
+
+#EXTINF:-1 tvg-chno="198" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 戏曲台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/42.ts

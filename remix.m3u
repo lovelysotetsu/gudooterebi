@@ -85,11 +85,14 @@ https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
 #EXTINF:-1 tvg-chno="190" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 黃金华剧台
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/31.ts
 
-#EXTINF:-1 tvg-chno="197" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 黃金翡翠台
+#EXTINF:-1 tvg-chno="180" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 黃金翡翠台
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/30.ts
 
 #EXTINF:-1 tvg-chno="198" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 戏曲台
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/42.ts
+
+#EXTINF:-1 tvg-chno="191" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 娛樂新聞台
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/41.ts
 
 #EXTINF:-1 tvg-chno="200" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER",粤语片台
 https://live.hkdvb.com/hls/live/804.m3u8?token=686830669847502

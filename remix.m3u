@@ -79,6 +79,9 @@ https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/32.ts
 #EXTINF:-1 tvg-chno="118" tvg-name="myTV SUPER 18" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/myTVSUPER%2018.png" group-title="myTV SUPER", myTV SUPER 18台
 https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/45.ts
 
+#EXTINF:-1 tvg-chno="188" tvg-name="SUPER Kids" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/myTVSUPER%2018.png" group-title="myTV SUPER", SUPER Kids Channel
+https://www.mytvsuper.xyz:443/live/ceshi123456/ceshi123456/67.ts
+
 #EXTINF:-1 tvg-chno="189" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER",华语剧台
 https://live.hkdvb.com/hls/live/803.m3u8?token=686830669847502
 

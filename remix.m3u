@@ -66,7 +66,7 @@ https://tv.iill.top/MyTV/CANI
 #EXTINF:-1 tvg-chno="502" tvg-name="AXN" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="myTV SUPER", AXN
 https://tv.iill.top/MyTV/CAXN
 
-#EXTINF:-1 tvg-chno="602" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="myTV SUPER", 无线卫星新闻台
+#EXTINF:-1 tvg-chno="702" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="myTV SUPER", 无线卫星新闻台
 https://tv.iill.top/MyTV/CTSN
 
 #EXTINF:-1 tvg-chno="538" tvg-name="中天亞洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ctiasia.png" group-title="now宽频电视", 中天亚洲台

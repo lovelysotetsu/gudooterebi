@@ -19,6 +19,8 @@ https://live.hkdvb.com/hls/live/96.m3u8?token=686830669896073
 #EXTINF:-1 tvg-chno="99" tvg-name="ViuTV" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ViuTV.png" group-title="粤港澳",ViuTV
 https://live.hkdvb.com/hls/live/99.m3u8?token=686830669896073
 
+#EXTINF:-1 tvg-chno="105" tvg-name="澳视澳门" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TDM_Ou_Mun.png" group-title="粤港澳",澳视澳门 ( 高清 )
+http://222.218.158.156:8181/tsfile/live/1039_1.m3u8
 
 
 #EXTINF:-1 tvg-chno="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="now宽频电视", Now 新聞台

@@ -114,5 +114,5 @@ https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
 #EXTINF:-1 tvg-chno="981" tvg-name="翡翠4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade24.png" group-title="粤港澳",翡翠台 ( 高清 )
 https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
 
-#EXTINF:-1 tvg-chno="1003" tvg-name="翡翠4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade24.png" group-title="粤港澳",香港翡翠
+#EXTINF:-1 tvg-chno="816" tvg-name="翡翠4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade24.png" group-title="粤港澳",香港翡翠
 http://149.88.93.148:8080/stream/hk/81/master.m3u8?u=admin&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

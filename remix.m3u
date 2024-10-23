@@ -1,38 +1,38 @@
 #EXTINF:-1 tvg-chno="81" tvg-name="Jade 翡翠台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade24.png" group-title="粤港澳",翡翠台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/81.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="82" tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB%2B.png" group-title="粤港澳",TVB Plus
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/82.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="83" tvg-name="News 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20News24.png" group-title="粤港澳",无线新闻台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/83.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="84" tvg-name="Pearl 明珠台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Pearl24.png" group-title="粤港澳",明珠台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/84.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="85" tvg-name="鳳凰香港台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/Phoenix%20Hong%20Kong%20ch85.png" group-title="粤港澳",凤凰卫视香港台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/85.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="96" tvg-name="ViuTV Six" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ViuTVsix.png" group-title="粤港澳",ViuTVsix
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/96.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="99" tvg-name="ViuTV" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ViuTV.png" group-title="粤港澳",ViuTV
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/99.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/Now%20Popcorn.png" group-title="now宽频电视", Now 爆谷台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/133.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="138" tvg-name="Now Superstars 星影台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/Now%20Baogu%20Superstars.png" group-title="now宽频电视", Now 爆谷星影台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/138.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="now宽频电视", Now 新聞台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/332.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="621" tvg-name="Now Sports 英超1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/Now%20Sports%20621.png" group-title="now宽频电视", Now Sports 英超1台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/621.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="630" tvg-name="Now Sports Prime" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/NOW%20SP.png" group-title="now宽频电视",Now 体育精选台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/630.m3u8?token=686830669896073
 
 
 #EXTINF:-1 tvg-chno="11" tvg-name="广东珠江" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="粤港澳",广东珠江
@@ -73,46 +73,44 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv153
 
 
 #EXTINF:-1 tvg-chno="189" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER",华语剧台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/803.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="200" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER",粤语片台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/804.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="201" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="myTV SUPER",美亚电影台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/802.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="206" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="myTV SUPER",PopC
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/801.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="31" tvg-name="港台電視 31" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_31_s.png" group-title="粤港澳",港台电视31
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/31.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="32" tvg-name="港台電視 32" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_32_s.png" group-title="粤港澳",港台电视32
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/32.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_33_s.png" group-title="粤港澳",中央电视台综合频道 ( CCTV-1 )
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/33.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="34" tvg-name="CGTN Documentary" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_34_s.png" group-title="粤港澳",中国环球电视网纪录频道 ( CGTN Documentary )
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/34.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="35" tvg-name="CGTN English" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_35_s.png" group-title="粤港澳",CGTN 英语频道
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/35.m3u8?token=686830669896073
 
-#EXTINF:-1 tvg-chno="36" tvg-name="RTHK36" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_36_s.png" group-title="粤港澳",港台电视36
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
 
 #EXTINF:-1 tvg-chno="76" tvg-name="HOY 國際財經台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/HOY_76.png" group-title="粤港澳", *HOY 国际财经台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/76.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="77" tvg-name="HOY TV" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/HOY_77.png" group-title="粤港澳", *HOY TV
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/77.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="78" tvg-name="HOY TV 資訊台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/HOY_78.png" group-title="粤港澳", *HOY 资讯台
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/78.m3u8?token=686830669896073
 
 #EXTINF:-1 tvg-chno="981" tvg-name="翡翠4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade24.png" group-title="粤港澳",翡翠台 ( 高清 )
-https://edge2.tvfree.sbs/hls/playlist.m3u?token=686830669896073
+https://live.hkdvb.com/hls/live/800.m3u8?token=686830669896073
 
-#EXTINF:-1 tvg-chno="816" tvg-name="翡翠4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade%20HKT.png" group-title="粤港澳",翡翠即日重温
+#EXTINF:-1 tvg-chno="1003" tvg-name="翡翠4K" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/TVBANYWHERE%20Jade24.png" group-title="粤港澳",香港翡翠
 http://149.88.93.148:8080/stream/hk/81/master.m3u8?u=admin&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

@@ -31,7 +31,7 @@ https://live.hkdvb.com/hls/live/332.m3u8?token=686830669896073
 #EXTINF:-1 tvg-chno="621" tvg-name="Now Sports 英超1台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/Now%20Sports%20621.png" group-title="now宽频电视", Now Sports 英超1台
 https://live.hkdvb.com/hls/live/621.m3u8?token=686830669896073
 
-#EXTINF:-1 tvg-chno="630" tvg-name="Now Sports Prime" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/NOW%20SP.png" group-title="now宽频电视",Now 体育精选台
+#EXTINF:-1 tvg-chno="630" tvg-name="Now Sports Prime" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/NOW%20SP.png" group-title="now宽频电视",Now Sports 精选台
 https://live.hkdvb.com/hls/live/630.m3u8?token=686830669896073
 
 

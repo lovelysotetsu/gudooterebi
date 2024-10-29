@@ -65,24 +65,28 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 #EXTINF:-1 tvg-chno="538" tvg-name="中天亞洲台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/ctiasia.png" group-title="now宽频电视", 中天亚洲台
-https://litv.zapi.us.kg/?id=4gtv-4gtv109
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
-#EXTINF:-1 tvg-chno="372" tvg-name="東森財經新聞" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="now宽频电视", 东森财经新闻台
-https://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 tvg-chno="505" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="myTV SUPER", tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 
+
+
+#EXTINF:-1 tvg-chno="190" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER", 黃金华剧台
+https://live.hkdvb.com/hls/live/90.m3u8?token=686830669896073&edge=live.tvfree.sbs
 
 #EXTINF:-1 tvg-chno="189" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER",华语剧台
-https://live.hkdvb.com/hls/live/803.m3u8?token=686830669896073
+https://live.hkdvb.com/hls/live/89.m3u8?token=686830669896073&edge=live.tvfree.sbs
 
 #EXTINF:-1 tvg-chno="200" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="myTV SUPER",粤语片台
-https://live.hkdvb.com/hls/live/804.m3u8?token=686830669896073
+https://live.hkdvb.com/hls/live/200.m3u8?token=686830669896073&edge=live.tvfree.sbs
 
 #EXTINF:-1 tvg-chno="201" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="myTV SUPER",美亚电影台
-https://live.hkdvb.com/hls/live/802.m3u8?token=686830669896073
+https://live.hkdvb.com/hls/live/201.m3u8?token=686830669896073&edge=live.tvfree.sbs
 
 #EXTINF:-1 tvg-chno="206" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="myTV SUPER",PopC
-https://live.hkdvb.com/hls/live/801.m3u8?token=686830669896073
+https://live.hkdvb.com/hls/live/206.m3u8?token=686830669896073&edge=live.tvfree.sbs
 
 #EXTINF:-1 tvg-chno="31" tvg-name="港台電視 31" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/lovelysotetsu/gudooterebi/refs/heads/main/png/tv_logo_31_s.png" group-title="粤港澳",港台电视31
 https://live.hkdvb.com/hls/live/31.m3u8?token=686830669896073
